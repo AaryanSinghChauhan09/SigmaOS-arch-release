@@ -2,7 +2,7 @@
 name = "arch-release"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-release component - Inspired by Arch Linux and Debian"
+description = "SigmaOS SigmaOS-arch-release component - SigmaOS component"
 license = "MIT"
 repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-release"
 
